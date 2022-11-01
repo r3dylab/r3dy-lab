@@ -11,7 +11,7 @@ export default function Index() {
             <div className="absolute inset-0">
               <img
                 className="h-full w-full object-cover"
-                src="https://user-images.githubusercontent.com/8431042/161311608-f5d43ab2-85b4-40c5-9dea-065985e5adf5.jpeg"
+                src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0c2b4cc2-d07d-4fbd-b02e-2080981b29a1/dfdo0g0-c73c464f-7bd7-40f7-bb56-eace45cfda22.jpg/v1/fill/w_1192,h_670,q_70,strp/moonride_by_t1na_dfdo0g0-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMGMyYjRjYzItZDA3ZC00ZmJkLWIwMmUtMjA4MDk4MWIyOWExXC9kZmRvMGcwLWM3M2M0NjRmLTdiZDctNDBmNy1iYjU2LWVhY2U0NWNmZGEyMi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.wR_VkqOqsvXIGImTblbd4bNEa5YHLFgy4XZ4S7xJqSo"
                 alt="BTS playing on stage with the group leaving in action poses"
               />
               <div className="absolute inset-0 bg-[color:rgba(139,92,246,0.5)] mix-blend-multiply" />
